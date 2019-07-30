@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleSpinner</string>
+        <string-array name="location_array">
+            <item>Argentina</item>
+            <item>Armenia</item>
+            <item>Australia</item>
+            <item>Belgium</item>
+            <item>Brazil</item>
+            <item>Canada</item>
+            <item>China</item>
+            <item>Denmark</item>
+        </string-array>
+</resources>
